@@ -1,5 +1,5 @@
 This is a Next.js, Tailwind, and Typescript project bootstrapped using ts-nextjs-tailwind-starter created by [Theodorus Clarence](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter).
-
+-
 See the deployment on [https://clarence.link/ts-next](https://clarence.link/ts-next)
 
 ![Screenshot](https://user-images.githubusercontent.com/55318172/128602240-5e1faa71-450b-4f93-b08a-68bfa95c37f4.png)
